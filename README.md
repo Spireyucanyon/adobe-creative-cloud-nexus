@@ -36,4 +36,4 @@ All-in-one **Adobe Creative Cloud Nexus** design platform featuring layer-based 
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.    
+> This repository is provided for educational and utility purposes only. Use at your own discretion.     
